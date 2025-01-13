@@ -1,0 +1,530 @@
+--2025-01-13 14:08:34--  https://github.com/s-andrews/FastQC/archive/refs/tags/v0.12.1.tar.gz
+Connecting to 10.99.0.130:3128... connected.
+Proxy request sent, awaiting response... 302 Found
+Location: https://codeload.github.com/s-andrews/FastQC/tar.gz/refs/tags/v0.12.1 [following]
+--2025-01-13 14:08:34--  https://codeload.github.com/s-andrews/FastQC/tar.gz/refs/tags/v0.12.1
+Connecting to 10.99.0.130:3128... connected.
+Proxy request sent, awaiting response... 200 OK
+Length: unspecified [application/x-gzip]
+Saving to: ‘v0.12.1.tar.gz’
+
+     0K .......... .......... .......... .......... .......... 2.53M
+    50K .......... .......... .......... .......... .......... 3.99M
+   100K .......... .......... .......... .......... ..........  111M
+   150K .......... .......... .......... .......... .......... 4.66M
+   200K .......... .......... .......... .......... .......... 50.0M
+   250K .......... .......... .......... .......... ..........  217M
+   300K .......... .......... .......... .......... ..........  228M
+   350K .......... .......... .......... .......... ..........  247M
+   400K .......... .......... .......... .......... .......... 4.25M
+   450K .......... .......... .......... .......... ..........  209M
+   500K .......... .......... .......... .......... ..........  226M
+   550K .......... .......... .......... .......... ..........  215M
+   600K .......... .......... .......... .......... ..........  212M
+   650K .......... .......... .......... .......... ..........  240M
+   700K .......... .......... .......... .......... ..........  236M
+   750K .......... .......... .......... .......... ..........  234M
+   800K .......... .......... .......... .......... .......... 5.05M
+   850K .......... .......... .......... .......... ..........  215M
+   900K .......... .......... .......... .......... ..........  214M
+   950K .......... .......... .......... .......... ..........  240M
+  1000K .......... .......... .......... .......... ..........  205M
+  1050K .......... .......... .......... .......... ..........  256M
+  1100K .......... .......... .......... .......... ..........  252M
+  1150K .......... .......... .......... .......... ..........  242M
+  1200K .......... .......... .......... .......... .......... 52.2M
+  1250K .......... .......... .......... .......... .......... 41.0M
+  1300K .......... .......... .......... .......... .......... 22.5M
+  1350K .......... .......... .......... .......... .......... 42.5M
+  1400K .......... .......... .......... .......... .......... 23.6M
+  1450K .......... .......... .......... .......... .......... 40.3M
+  1500K .......... .......... .......... .......... .......... 19.9M
+  1550K .......... .......... .......... .......... .......... 39.7M
+  1600K .......... .......... .......... .......... .......... 19.3M
+  1650K .......... .......... .......... .......... .......... 18.1M
+  1700K .......... .......... .......... .......... .......... 31.9M
+  1750K .......... .......... .......... .......... .......... 23.6M
+  1800K .......... .......... .......... .......... .......... 43.7M
+  1850K .......... .......... .......... .......... .......... 25.8M
+  1900K .......... .......... .......... .......... .......... 38.3M
+  1950K .......... .......... .......... .......... .......... 26.7M
+  2000K .......... .......... .......... .......... .......... 26.1M
+  2050K .......... .......... .......... .......... .......... 49.8M
+  2100K .......... .......... .......... .......... .......... 25.5M
+  2150K .......... .......... .......... .......... .......... 35.5M
+  2200K .......... .......... .......... .......... .......... 26.3M
+  2250K .......... .......... .......... .......... .......... 39.9M
+  2300K .......... .......... .......... .......... .......... 24.6M
+  2350K .......... .......... .......... .......... .......... 17.7M
+  2400K .......... .......... .......... .......... ..........  178M
+  2450K .......... .......... .......... .......... .......... 91.7M
+  2500K .......... .......... .......... .......... .......... 40.4M
+  2550K .......... .......... .......... .......... .......... 23.8M
+  2600K .......... .......... .......... .......... .......... 39.2M
+  2650K .......... .......... .......... .......... .......... 24.7M
+  2700K .......... .......... .......... .......... .......... 42.0M
+  2750K .......... .......... .......... .......... .......... 22.0M
+  2800K .......... .......... .......... .......... .......... 25.0M
+  2850K .......... .......... .......... .......... .......... 55.0M
+  2900K .......... .......... .......... .......... .......... 26.5M
+  2950K .......... .......... .......... .......... .......... 38.3M
+  3000K .......... .......... .......... .......... .......... 28.5M
+  3050K .......... .......... .......... .......... .......... 47.7M
+  3100K .......... .......... .......... .......... .......... 24.0M
+  3150K .......... .......... .......... .......... .......... 50.7M
+  3200K .......... .......... .......... .......... .......... 29.3M
+  3250K .......... .......... .......... .......... .......... 24.5M
+  3300K .......... .......... .......... .......... .......... 40.0M
+  3350K .......... .......... .......... .......... .......... 9.87M
+  3400K .......... .......... .......... .......... ..........  141M
+  3450K .......... .......... .......... .......... ..........  160M
+  3500K .......... .......... .......... .......... .......... 70.6M
+  3550K .......... .......... .......... .......... .......... 30.1M
+  3600K .......... .......... .......... .......... .......... 25.0M
+  3650K .......... .......... .......... .......... .......... 49.4M
+  3700K .......... .......... .......... .......... .......... 39.3M
+  3750K .......... .......... .......... .......... .......... 30.8M
+  3800K .......... .......... .......... .......... .......... 35.2M
+  3850K .......... .......... .......... .......... .......... 24.4M
+  3900K .......... .......... .......... .......... .......... 33.4M
+  3950K .......... .......... .......... .......... .......... 18.2M
+  4000K .......... .......... .......... .......... .......... 25.3M
+  4050K .......... .......... .......... .......... .......... 44.4M
+  4100K .......... .......... .......... .......... .......... 20.8M
+  4150K .......... .......... .......... .......... .......... 53.9M
+  4200K .......... .......... .......... .......... .......... 27.9M
+  4250K .......... .......... .......... .......... .......... 37.3M
+  4300K .......... .......... .......... .......... .......... 29.0M
+  4350K .......... .......... .......... .......... .......... 42.0M
+  4400K .......... .......... .......... .......... .......... 24.9M
+  4450K .......... .......... .......... .......... .......... 28.6M
+  4500K .......... .......... .......... .......... .......... 44.7M
+  4550K .......... .......... .......... .......... .......... 26.7M
+  4600K .......... .......... .......... .......... .......... 38.3M
+  4650K .......... .......... .......... .......... .......... 20.5M
+  4700K .......... .......... .......... .......... .......... 77.6M
+  4750K .......... .......... .......... .......... .......... 28.2M
+  4800K .......... .......... .......... .......... .......... 26.0M
+  4850K .......... .......... .......... .......... .......... 33.9M
+  4900K .......... .......... .......... .......... .......... 26.9M
+  4950K .......... .......... .......... .......... .......... 38.7M
+  5000K .......... .......... .......... .......... .......... 24.8M
+  5050K .......... .......... .......... .......... .......... 45.7M
+  5100K .......... .......... .......... .......... .......... 26.6M
+  5150K .......... .......... .......... .......... .......... 35.2M
+  5200K .......... .......... .......... .......... .......... 24.1M
+  5250K .......... .......... .......... .......... .......... 29.7M
+  5300K .......... .......... .......... .......... .......... 42.1M
+  5350K .......... .......... .......... .......... .......... 25.0M
+  5400K .......... .......... .......... .......... .......... 33.0M
+  5450K .......... .......... .......... .......... .......... 28.7M
+  5500K .......... .......... .......... .......... .......... 32.6M
+  5550K .......... .......... .......... .......... .......... 25.3M
+  5600K .......... .......... .......... .......... .......... 23.3M
+  5650K .......... .......... .......... .......... .......... 64.4M
+  5700K .......... .......... .......... .......... .......... 10.2M
+  5750K .......... .......... .......... .......... .......... 71.3M
+  5800K .......... .......... .......... .......... ..........  213M
+  5850K .......... .......... .......... .......... .......... 52.5M
+  5900K .......... .......... .......... .......... .......... 31.8M
+  5950K .......... .......... .......... .......... .......... 50.6M
+  6000K .......... .......... .......... .......... .......... 26.3M
+  6050K .......... .......... .......... .......... .......... 22.2M
+  6100K .......... .......... .......... .......... .......... 48.0M
+  6150K .......... .......... .......... .......... .......... 27.4M
+  6200K .......... .......... .......... .......... .......... 27.9M
+  6250K .......... .......... .......... .......... .......... 30.6M
+  6300K .......... .......... .......... .......... .......... 35.9M
+  6350K .......... .......... .......... .......... .......... 43.3M
+  6400K .......... .......... .......... .......... .......... 21.4M
+  6450K .......... .......... .......... .......... .......... 40.8M
+  6500K .......... .......... .......... .......... .......... 52.9M
+  6550K .......... .......... .......... .......... .......... 19.5M
+  6600K .......... .......... .......... .......... .......... 42.9M
+  6650K .......... .......... .......... .......... .......... 18.8M
+  6700K .......... .......... .......... .......... .......... 31.6M
+  6750K .......... .......... .......... .......... .......... 15.5M
+  6800K .......... .......... .......... .......... ..........  117M
+  6850K .......... .......... .......... .......... ..........  253M
+  6900K .......... .......... .......... .......... .......... 19.0M
+  6950K .......... .......... .......... .......... ..........  248M
+  7000K .......... .......... .......... .......... .......... 34.3M
+  7050K .......... .......... .......... .......... .......... 26.8M
+  7100K .......... .......... .......... .......... .......... 8.45M
+  7150K .......... .......... .......... .......... ..........  103M
+  7200K .......... .......... .......... .......... ..........  138M
+  7250K .......... .......... .......... .......... ..........  236M
+  7300K .......... .......... .......... .......... ..........  236M
+  7350K .......... .......... .......... .......... .......... 27.1M
+  7400K .......... .......... .......... .......... .......... 42.7M
+  7450K .......... .......... .......... .......... .......... 26.9M
+  7500K .......... .......... .......... .......... .......... 28.2M
+  7550K .......... .......... .......... .......... .......... 29.9M
+  7600K .......... .......... .......... .......... .......... 27.8M
+  7650K .......... .......... .......... .......... .......... 37.1M
+  7700K .......... .......... .......... .......... .......... 25.9M
+  7750K .......... .......... .......... .......... .......... 38.1M
+  7800K .......... .......... .......... .......... .......... 24.2M
+  7850K .......... .......... .......... .......... .......... 47.8M
+  7900K .......... .......... .......... .......... .......... 23.8M
+  7950K .......... .......... .......... .......... .......... 73.7M
+  8000K .......... .......... .......... .......... .......... 22.7M
+  8050K .......... .......... .......... .......... .......... 28.7M
+  8100K .......... .......... .......... .......... .......... 44.5M
+  8150K .......... .......... .......... .......... .......... 40.6M
+  8200K .......... .......... .......... .......... .......... 38.9M
+  8250K .......... .......... .......... .......... .......... 25.2M
+  8300K .......... .......... .......... .......... .......... 41.3M
+  8350K .......... .......... .......... .......... .......... 21.2M
+  8400K .......... .......... .......... .......... .......... 29.1M
+  8450K .......... .......... .......... .......... .......... 36.3M
+  8500K .......... .......... .......... .......... .......... 25.8M
+  8550K .......... .......... .......... .......... .......... 38.9M
+  8600K .......... .......... .......... .......... .......... 28.0M
+  8650K .......... .......... .......... .......... .......... 34.6M
+  8700K .......... .......... .......... .......... .......... 20.7M
+  8750K .......... .......... .......... .......... .......... 44.5M
+  8800K .......... .......... .......... .......... .......... 28.1M
+  8850K .......... .......... .......... .......... .......... 37.7M
+  8900K .......... .......... .......... .......... .......... 26.9M
+  8950K .......... .......... .......... .......... .......... 35.8M
+  9000K .......... .......... .......... .......... .......... 27.5M
+  9050K .......... .......... .......... .......... .......... 40.7M
+  9100K .......... .......... .......... .......... .......... 26.3M
+  9150K .......... .......... .......... .......... .......... 39.9M
+  9200K .......... .......... .......... .......... .......... 11.3M
+  9250K .......... .......... .......... .......... .......... 5.66M
+  9300K .......... .......... .......... .......... .......... 26.3M
+  9350K .......... .......... .......... .......... .......... 27.3M
+  9400K .......... .......... .......... .......... ..........  115M
+  9450K .......... .......... .......... .......... .......... 23.3M
+  9500K .......... .......... .......... .......... .......... 27.9M
+  9550K .......... .......... .......... .......... .......... 31.0M
+  9600K .......... .......... .......... .......... .......... 25.8M
+  9650K .......... .......... .......... .......... .......... 35.4M
+  9700K .......... .......... .......... .......... .......... 25.3M
+  9750K .......... .......... .......... .......... .......... 28.7M
+  9800K .......... .......... .......... .......... .......... 29.2M
+  9850K .......... .......... .......... .......... .......... 32.7M
+  9900K .......... .......... .......... .......... .......... 26.3M
+  9950K .......... .......... .......... .......... .......... 37.3M
+ 10000K .......... .......... .......... .......... .......... 25.5M
+ 10050K .......... .......... .......... .......... .......... 21.1M
+ 10100K .......... .......... .......... .......... .......... 60.5M
+ 10150K .......... .......... .......... .......... .......... 21.8M
+ 10200K .......... .......... .......... .......... .......... 50.1M
+ 10250K .......... .......... .......... .......... .......... 27.2M
+ 10300K .......... .......... .......... .......... .......... 47.3M
+ 10350K .......... .......... .......... .......... .......... 3.53M
+ 10400K .......... .......... .......... .......... .......... 90.8M
+ 10450K .......... .......... .......... .......... ..........  216M
+ 10500K .......... .......... .......... .......... .......... 39.4M
+ 10550K .......... .......... .......... .......... .......... 49.4M
+ 10600K .......... .......... .......... .......... .......... 21.4M
+ 10650K .......... .......... .......... .......... .......... 40.0M
+ 10700K .......... .......... .......... .......... .......... 26.6M
+ 10750K .......... .......... .......... .......... .......... 40.0M
+ 10800K .......... .......... .......... .......... .......... 26.3M
+ 10850K .......... .......... .......... .......... .......... 20.3M
+ 10900K .......... .......... .......... .......... .......... 11.4M
+ 10950K .......... .......... .......... .......... .......... 5.95M
+ 11000K .......... .......... .......... .......... .......... 6.58M
+ 11050K .......... .......... .......... .......... .......... 7.17M
+ 11100K .......... .......... .......... .......... .......... 6.14M
+ 11150K .......... .......... .......... .......... ..........  103M
+ 11200K .......... .......... .......... .......... .......... 8.49M
+ 11250K ..                                                     62.0M=0.4s
+
+2025-01-13 14:08:35 (25.2 MB/s) - ‘v0.12.1.tar.gz’ saved [11522727]
+
+FastQC-0.12.1/
+FastQC-0.12.1/.classpath
+FastQC-0.12.1/.gitignore
+FastQC-0.12.1/.project
+FastQC-0.12.1/.settings/
+FastQC-0.12.1/.settings/org.eclipse.jdt.core.prefs
+FastQC-0.12.1/Configuration/
+FastQC-0.12.1/Configuration/adapter_list.txt
+FastQC-0.12.1/Configuration/contaminant_list.txt
+FastQC-0.12.1/Configuration/limits.txt
+FastQC-0.12.1/Help/
+FastQC-0.12.1/Help/1 Introduction/
+FastQC-0.12.1/Help/1 Introduction/.svn/
+FastQC-0.12.1/Help/1 Introduction/.svn/entries
+FastQC-0.12.1/Help/1 Introduction/.svn/text-base/
+FastQC-0.12.1/Help/1 Introduction/.svn/text-base/1.1 What is FastQC.html.svn-base
+FastQC-0.12.1/Help/1 Introduction/1.1 What is FastQC.html
+FastQC-0.12.1/Help/2 Basic Operations/
+FastQC-0.12.1/Help/2 Basic Operations/.svn/
+FastQC-0.12.1/Help/2 Basic Operations/.svn/entries
+FastQC-0.12.1/Help/2 Basic Operations/.svn/text-base/
+FastQC-0.12.1/Help/2 Basic Operations/.svn/text-base/2.1 Opening a sequence file.html.svn-base
+FastQC-0.12.1/Help/2 Basic Operations/.svn/text-base/2.2 Evaluating Results.html.svn-base
+FastQC-0.12.1/Help/2 Basic Operations/.svn/text-base/2.3 Saving a Report.html.svn-base
+FastQC-0.12.1/Help/2 Basic Operations/2.1 Opening a sequence file.html
+FastQC-0.12.1/Help/2 Basic Operations/2.2 Evaluating Results.html
+FastQC-0.12.1/Help/2 Basic Operations/2.3 Saving a Report.html
+FastQC-0.12.1/Help/3 Analysis Modules/
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/entries
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/duplication_levels.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/kmer_profiles.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/per_base_gc_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/per_base_n_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/per_base_quality.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/per_base_sequence_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/per_sequence_gc_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/per_sequence_quality.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/per_tile_quality.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/prop-base/sequence_length_distribution.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/1 Basic Statistics.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/10 Adapter Content.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/11 Kmer Content.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/12 Per Tile Sequence Quality.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/2 Per Base Sequence Quality.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/3 Per Sequence Quality Scores.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/4 Per Base Sequence Content.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/5 Per Sequence GC Content.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/6 Per Base N Content.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/7 Sequence Length Distribution.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/8 Duplicate Sequences.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/9 Overrepresented Sequences.html.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/duplication_levels.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/kmer_profiles.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/per_base_gc_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/per_base_n_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/per_base_quality.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/per_base_sequence_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/per_sequence_gc_content.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/per_sequence_quality.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/per_tile_quality.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/.svn/text-base/sequence_length_distribution.png.svn-base
+FastQC-0.12.1/Help/3 Analysis Modules/1 Basic Statistics.html
+FastQC-0.12.1/Help/3 Analysis Modules/10 Adapter Content.html
+FastQC-0.12.1/Help/3 Analysis Modules/11 Kmer Content.html
+FastQC-0.12.1/Help/3 Analysis Modules/12 Per Tile Sequence Quality.html
+FastQC-0.12.1/Help/3 Analysis Modules/2 Per Base Sequence Quality.html
+FastQC-0.12.1/Help/3 Analysis Modules/3 Per Sequence Quality Scores.html
+FastQC-0.12.1/Help/3 Analysis Modules/4 Per Base Sequence Content.html
+FastQC-0.12.1/Help/3 Analysis Modules/5 Per Sequence GC Content.html
+FastQC-0.12.1/Help/3 Analysis Modules/6 Per Base N Content.html
+FastQC-0.12.1/Help/3 Analysis Modules/7 Sequence Length Distribution.html
+FastQC-0.12.1/Help/3 Analysis Modules/8 Duplicate Sequences.html
+FastQC-0.12.1/Help/3 Analysis Modules/9 Overrepresented Sequences.html
+FastQC-0.12.1/Help/3 Analysis Modules/duplication_levels.png
+FastQC-0.12.1/Help/3 Analysis Modules/kmer_profiles.png
+FastQC-0.12.1/Help/3 Analysis Modules/per_base_gc_content.png
+FastQC-0.12.1/Help/3 Analysis Modules/per_base_n_content.png
+FastQC-0.12.1/Help/3 Analysis Modules/per_base_quality.png
+FastQC-0.12.1/Help/3 Analysis Modules/per_base_sequence_content.png
+FastQC-0.12.1/Help/3 Analysis Modules/per_sequence_gc_content.png
+FastQC-0.12.1/Help/3 Analysis Modules/per_sequence_quality.png
+FastQC-0.12.1/Help/3 Analysis Modules/per_tile_quality.png
+FastQC-0.12.1/Help/3 Analysis Modules/sequence_length_distribution.png
+FastQC-0.12.1/INSTALL.txt
+FastQC-0.12.1/LICENSE
+FastQC-0.12.1/LICENSE.txt
+FastQC-0.12.1/LICENSE_JHDF5.txt
+FastQC-0.12.1/README.md
+FastQC-0.12.1/README.txt
+FastQC-0.12.1/RELEASE_NOTES.txt
+FastQC-0.12.1/Templates/
+FastQC-0.12.1/Templates/Icons/
+FastQC-0.12.1/Templates/Icons/error.png
+FastQC-0.12.1/Templates/Icons/fastqc_icon.png
+FastQC-0.12.1/Templates/Icons/tick.png
+FastQC-0.12.1/Templates/Icons/warning.png
+FastQC-0.12.1/Templates/fastqc2fo.xsl
+FastQC-0.12.1/Templates/header_template.html
+FastQC-0.12.1/build.xml
+FastQC-0.12.1/cisd-jhdf5.jar
+FastQC-0.12.1/fastqc
+FastQC-0.12.1/fastqc_icon.ico
+FastQC-0.12.1/htsjdk.jar
+FastQC-0.12.1/jbzip2-0.9.jar
+FastQC-0.12.1/net/
+FastQC-0.12.1/net/sourceforge/
+FastQC-0.12.1/net/sourceforge/iharder/
+FastQC-0.12.1/net/sourceforge/iharder/base64/
+FastQC-0.12.1/net/sourceforge/iharder/base64/Base64.java
+FastQC-0.12.1/org/
+FastQC-0.12.1/org/apache/
+FastQC-0.12.1/org/apache/commons/
+FastQC-0.12.1/org/apache/commons/math3/
+FastQC-0.12.1/org/apache/commons/math3/analysis/
+FastQC-0.12.1/org/apache/commons/math3/analysis/UnivariateFunction.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/AbstractUnivariateSolver.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/AllowedSolution.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/BaseAbstractUnivariateSolver.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/BaseUnivariateSolver.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/BracketedUnivariateSolver.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/BrentSolver.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/UnivariateSolver.java
+FastQC-0.12.1/org/apache/commons/math3/analysis/solvers/UnivariateSolverUtils.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/
+FastQC-0.12.1/org/apache/commons/math3/distribution/AbstractIntegerDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/AbstractRealDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/BetaDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/BinomialDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/CauchyDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/ChiSquaredDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/FDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/GammaDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/HypergeometricDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/IntegerDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/NormalDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/PascalDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/PoissonDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/RealDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/SaddlePointExpansion.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/TDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/WeibullDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/distribution/ZipfDistribution.java
+FastQC-0.12.1/org/apache/commons/math3/exception/
+FastQC-0.12.1/org/apache/commons/math3/exception/ConvergenceException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/DimensionMismatchException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/MathArithmeticException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/MathIllegalArgumentException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/MathIllegalNumberException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/MathIllegalStateException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/MathInternalError.java
+FastQC-0.12.1/org/apache/commons/math3/exception/MaxCountExceededException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/NoBracketingException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/NotFiniteNumberException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/NotPositiveException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/NotStrictlyPositiveException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/NullArgumentException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/NumberIsTooLargeException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/NumberIsTooSmallException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/OutOfRangeException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/TooManyEvaluationsException.java
+FastQC-0.12.1/org/apache/commons/math3/exception/util/
+FastQC-0.12.1/org/apache/commons/math3/exception/util/ArgUtils.java
+FastQC-0.12.1/org/apache/commons/math3/exception/util/ExceptionContext.java
+FastQC-0.12.1/org/apache/commons/math3/exception/util/ExceptionContextProvider.java
+FastQC-0.12.1/org/apache/commons/math3/exception/util/Localizable.java
+FastQC-0.12.1/org/apache/commons/math3/exception/util/LocalizedFormats.java
+FastQC-0.12.1/org/apache/commons/math3/random/
+FastQC-0.12.1/org/apache/commons/math3/random/AbstractWell.java
+FastQC-0.12.1/org/apache/commons/math3/random/BitsStreamGenerator.java
+FastQC-0.12.1/org/apache/commons/math3/random/RandomData.java
+FastQC-0.12.1/org/apache/commons/math3/random/RandomDataImpl.java
+FastQC-0.12.1/org/apache/commons/math3/random/RandomGenerator.java
+FastQC-0.12.1/org/apache/commons/math3/random/Well19937c.java
+FastQC-0.12.1/org/apache/commons/math3/special/
+FastQC-0.12.1/org/apache/commons/math3/special/Beta.java
+FastQC-0.12.1/org/apache/commons/math3/special/Erf.java
+FastQC-0.12.1/org/apache/commons/math3/special/Gamma.java
+FastQC-0.12.1/org/apache/commons/math3/util/
+FastQC-0.12.1/org/apache/commons/math3/util/ArithmeticUtils.java
+FastQC-0.12.1/org/apache/commons/math3/util/ContinuedFraction.java
+FastQC-0.12.1/org/apache/commons/math3/util/DoubleArray.java
+FastQC-0.12.1/org/apache/commons/math3/util/FastMath.java
+FastQC-0.12.1/org/apache/commons/math3/util/FastMathCalc.java
+FastQC-0.12.1/org/apache/commons/math3/util/FastMathLiteralArrays.java
+FastQC-0.12.1/org/apache/commons/math3/util/Incrementor.java
+FastQC-0.12.1/org/apache/commons/math3/util/MathUtils.java
+FastQC-0.12.1/org/apache/commons/math3/util/Precision.java
+FastQC-0.12.1/org/apache/commons/math3/util/ResizableDoubleArray.java
+FastQC-0.12.1/run_fastqc.bat
+FastQC-0.12.1/uk/
+FastQC-0.12.1/uk/ac/
+FastQC-0.12.1/uk/ac/babraham/
+FastQC-0.12.1/uk/ac/babraham/FastQC/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Analysis/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Analysis/AnalysisListener.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Analysis/AnalysisQueue.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Analysis/AnalysisRunner.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Analysis/OfflineRunner.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Dialogs/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Dialogs/AboutDialog.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Dialogs/FastQCTitlePanel.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Dialogs/WelcomePanel.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FastQCApplication.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FastQCConfig.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FastQCMenuBar.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FileFilters/
+FastQC-0.12.1/uk/ac/babraham/FastQC/FileFilters/BAMFileFilter.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FileFilters/CasavaFastQFileFilter.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FileFilters/FastQFileFilter.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FileFilters/GobyFileFilter.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FileFilters/MappedBAMFileFilter.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/FileFilters/SequenceFileFilter.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Graphs/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Graphs/BaseGroup.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Graphs/LineGraph.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Graphs/QualityBoxPlot.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Graphs/TileGraph.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Help/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Help/HelpDialog.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Help/HelpIndexRoot.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Help/HelpPage.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Help/HelpPageDisplay.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Help/HelpSearchPanel.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/AbstractQCModule.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/AdapterContent.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/BasicStats.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/DuplicationLevel.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/GCModel/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/GCModel/GCModel.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/GCModel/GCModelValue.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/KmerContent.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/ModuleConfig.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/ModuleFactory.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/NContent.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/OverRepresentedSeqs.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/PerBaseQualityScores.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/PerBaseSequenceContent.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/PerSequenceGCContent.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/PerSequenceQualityScores.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/PerTileQualityScores.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/QCModule.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Modules/SequenceLengthDistribution.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Report/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Report/HTMLReportArchive.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Report/stylesheet.txt
+FastQC-0.12.1/uk/ac/babraham/FastQC/Resources/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Resources/error.png
+FastQC-0.12.1/uk/ac/babraham/FastQC/Resources/fastqc_icon.png
+FastQC-0.12.1/uk/ac/babraham/FastQC/Resources/fastqc_icon.svg
+FastQC-0.12.1/uk/ac/babraham/FastQC/Resources/fastqc_icon_100.png
+FastQC-0.12.1/uk/ac/babraham/FastQC/Resources/tick.png
+FastQC-0.12.1/uk/ac/babraham/FastQC/Resources/warning.png
+FastQC-0.12.1/uk/ac/babraham/FastQC/Results/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Results/ResultsPanel.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/BAMFile.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/Contaminant/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/Contaminant/Contaminant.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/Contaminant/ContaminantHit.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/Contaminant/ContaminentFinder.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/Fast5File.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/FastQFile.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/QualityEncoding/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/QualityEncoding/PhredEncoding.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/Sequence.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/SequenceFactory.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/SequenceFile.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/SequenceFileGroup.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Sequence/SequenceFormatException.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Statistics/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Statistics/NormalDistribution.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Statistics/PearsonCorrelation.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/CasavaBasename.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/HotColdColourGradient.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/ImageSaver/
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/ImageSaver/SVGGenerator.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/ImageSaver/SVGImageSaver.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/ImageToBase64.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/MultiMemberGZIPInputStream.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/NameFormatException.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/NanoporeBasename.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/QualityCount.java
+FastQC-0.12.1/uk/ac/babraham/FastQC/Utilities/RGB.java
+sed: can't read fastqc: No such file or directory
+cp: -r not specified; omitting directory '/shared/EL9/explorer/fastqc/0.12.1/src'
